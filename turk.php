@@ -72,7 +72,7 @@ require_once "config.php";
                <a class="channel nav-link" data-value="https://tv-trtavaz.live.trt.com.tr/master.m3u8" href="javascript:void(0);">TRT Avaz</a>
             </li>
             <li class="nav-item">
-               <a class="channel nav-link" data-value="https://tv-trtcocuk.live.trt.com.tr/master.m3u8" href="javascript:void(0);">TRT Cocuk</a>
+               <a class="channel nav-link" data-value="https://tv-trtcocuk.live.trt.com.tr/master.m3u8" href="javascript:void(0);">TRT Cocuk-test</a>
             </li>
             <li class="nav-item">
                <a class="channel nav-link" data-value="https://tv-trthaber.live.trt.com.tr/master.m3u8" href="javascript:void(0);">TRT Haber</a>
