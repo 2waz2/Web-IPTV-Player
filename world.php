@@ -66,7 +66,7 @@ require_once "config.php";
                <a class="channel nav-link" data-value="https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8" href="javascript:void(0);">&privé HD</a>
             </li>
             <li class="nav-item">
-               <a class="channel nav-link" data-value="https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">ZooMoo</a>
+               <a class="channel nav-link" data-value="https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">big brother</a>
             </li>	
 			<li class="nav-item">
                <a class="channel nav-link" data-value="http://persik.by/stream/6696/480248/10240.m3u8" href="javascript:void(0);">Movi</a>
